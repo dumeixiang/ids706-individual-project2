@@ -30,8 +30,8 @@ Git hub Coplit: as the permission from repective group with access to copilot is
 Git hub Action:
 ![action](https://github.com/dumeixiang/ids706-individual-project2/blob/main/Screen%20Shot%202023-10-29%20at%209.09.49%20PM.png)
 Video demo:
-link: 
-https://www.youtube.com/watch?v=jl2m8qprYLU
+link see the assignment record.
+
 
 
 
