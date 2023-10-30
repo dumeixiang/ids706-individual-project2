@@ -20,5 +20,6 @@ Video Demo: A YouTube link in README.md showing a clear, concise walkthrough and
 Deliveral:
 
 SQLlite database: upload data -"flights" and executed extract, transform, create, read, upadte and delete in rust.
-Ecluding Test case to verity the code functionality.
+Test.rt: Encluding Test case to verity the code functionality.
+Optimizing Rust Binary:
 
