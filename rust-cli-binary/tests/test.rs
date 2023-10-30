@@ -5,7 +5,7 @@ extern crate lazy_static;
 mod tests {
     use rusqlite::params;
     use rusqlite::Connection;
-    use rust_cli_binary::{ delete, extract, read, transform, update};
+    use rust_cli_binary::{create, delete, extract, read, transform, update};
     use std::fs;
     use std::sync::Once;
 
