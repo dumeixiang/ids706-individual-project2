@@ -21,9 +21,18 @@ Deliveral:
 
 SQLlite database: upload data -"flights" and executed extract, transform, create, read, upadte and delete in rust.
 Test.rt: Encluding Test case to verity the code functionality.
+![test]()
+
 Optimizing Rust Binary:
 ![optimizing rust binary](https://github.com/dumeixiang/ids706-individual-project2/blob/main/Screen%20Shot%202023-10-29%20at%208.28.07%20PM.png)
 Git hub Coplit: as the permission from repective group with access to copilot is pending, used chatgpt as substitute of copilot when creating executive command in Rust.
+![chatgpt]()
+Git hub Action:
+![action]()
+Video demo:
+link: 
+
+
 
 
 
