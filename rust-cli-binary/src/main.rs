@@ -19,7 +19,7 @@ fn main() {
     }
 
     match create("flightsDB.db", 2023, "October", 800) {
-        Ok(_) => println!("Successfully inserted data into the SQLite DB."),
+        Ok(_) => println!("Inserting data into the SQLite DB."),
         Err(e) => println!("Error occurred while inserting data: {}", e),
     }
 
