@@ -22,4 +22,6 @@ Deliveral:
 SQLlite database: upload data -"flights" and executed extract, transform, create, read, upadte and delete in rust.
 Test.rt: Encluding Test case to verity the code functionality.
 Optimizing Rust Binary:
+![optimizing rust binary](Screen Shot 2023-10-29 at 8.28.07 PM.png)
+
 
