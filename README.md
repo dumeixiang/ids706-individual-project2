@@ -23,5 +23,8 @@ SQLlite database: upload data -"flights" and executed extract, transform, create
 Test.rt: Encluding Test case to verity the code functionality.
 Optimizing Rust Binary:
 ![optimizing rust binary](https://github.com/dumeixiang/ids706-individual-project2/blob/main/Screen%20Shot%202023-10-29%20at%208.28.07%20PM.png)
+Git hub Coplit was used to when creating executive command in Rust.
+
+
 
 
