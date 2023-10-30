@@ -100,7 +100,7 @@ pub fn update(
     )?;
 
     if rows_modified == 0 {
-        println!("No data found for the specified year and month.");
+        println!("No data found for the year and month.");
     } else {
         println!("Data successfully updated in the database.");
     }
